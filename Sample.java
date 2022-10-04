@@ -1,5 +1,5 @@
 
-public class Jenkins {
+public class Sample {
 
     public static void main(String[] args) {
         System.out.println("============= HELLLO WORLDDD =============");
